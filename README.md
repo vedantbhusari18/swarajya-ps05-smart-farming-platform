@@ -71,10 +71,10 @@ The platform follows a simple web architecture.
 
 User → Web Interface → Processing Logic → Results Display
 
-1. User enters farming data or uploads crop images.
-2. The system processes the data.
-3. Crop recommendation or disease analysis is generated.
-4. Results are displayed on the dashboard.
+1. User enters farming data or uploads crop images
+2. The system processes the data
+3. Crop recommendation or disease analysis is generated
+4. Results are displayed on the dashboard
 
 ---
 
@@ -90,8 +90,7 @@ Responsive UI design
 Modern web layout
 
 Deployment
-GitHub Repository
-Static Web Hosting
+Static Web Application
 
 ---
 
@@ -113,42 +112,15 @@ swarajya-ps05-smart-farming-platform
 
 ---
 
-# ⚙️ Installation & Setup
-
-Clone the repository:
-
-```
-git clone https://github.com/vedantbhusari18/swarajya-ps05-smart-farming-platform.git
-```
-
-Navigate to the project folder:
-
-```
-cd swarajya-ps05-smart-farming-platform
-```
-
-Open the project:
-
-```
-Open index.html in your browser
-```
-
-No additional dependencies are required.
-
----
-
 # 🚀 Deployment
 
-This project can be deployed using **GitHub Pages**.
+The project can be deployed as a static web application.
 
-Steps:
+It can be hosted using platforms such as:
 
-1. Open repository settings
-2. Navigate to Pages
-3. Select branch → main
-4. Select folder → root
-
-Your project will be deployed as a static website.
+* GitHub Pages
+* Netlify
+* Vercel
 
 ---
 
@@ -171,14 +143,8 @@ Developed for **Swarajya Hack Fest 2026**
 Team Members:
 
 * Vedant Bhusari
-* Team Member 2
-* Team Member 3
-
----
-
-# 📜 License
-
-This project is open-source and available under the MIT License.
+* Rohan Gabhane
+* Omkar Pawar
 
 ---
 
